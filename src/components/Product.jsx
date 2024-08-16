@@ -1,6 +1,6 @@
 import {useContext} from "react";
 
-import { ShoppingCartContext} from "../store/shopping-cart-context.jsx";
+import { ShoppingCartContext } from "../store/shopping-cart-context.jsx";
 import Shop from "./Shop.jsx";
 
 export default function Product({
